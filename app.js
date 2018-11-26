@@ -21,4 +21,4 @@
 		res.redirect('/');
 	});
 	
-	server.listen(8000);
+	server.listen(port);
