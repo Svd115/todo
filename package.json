@@ -5,8 +5,7 @@
         "body-parser": "^1.18.3",
         "ejs": "~2.1.4",
         "express": "^4.16.4",
-        "nodemailer": "^4.6.8",
-        "sparkpost": "^2.1.3"
+		"sendgrid": "^4.2.0"
     },
     "author": "Lclhst",
     "description": "Un gestionnaire de todolist ultra basique"
